@@ -7,7 +7,6 @@ I'm a Computer Science undergraduate specializing in Artificial Intelligence and
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jedi3301)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jedidiah.d03@gmail.com)
-[![Phone](https://img.shields.io/badge/+91--7093347997-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917093347997)
 
 ---
 
@@ -17,7 +16,7 @@ I'm a Computer Science undergraduate specializing in Artificial Intelligence and
 - 💼 **Current Role**: AI/ML Intern at Haystek Technologies (Apr 2025 – Present)
 - 🤖 **Passionate About**: LLMs, Multi-Agent AI Systems, AI Applications & IoT Integration
 - 📍 **Location**: Hyderabad, India
-- 🌟 **GPA**: 7.67/10
+- 🌟 **GPA**: 7.9/10
 
 ---
 
